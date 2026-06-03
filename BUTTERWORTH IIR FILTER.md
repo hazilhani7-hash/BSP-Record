@@ -74,7 +74,3 @@ Thus, digital Butterworth IIR filter with the given specifications was designed 
 
 
 
-## RESULT:
-
-Thus, digital Butterworth IIR filter with the given specifications was designed using MatLab.
- 
