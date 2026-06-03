@@ -79,7 +79,7 @@ ylabel('∠X(k)');
 
 ## OUTPUT
 
- 
+ <img width="946" height="1013" alt="image" src="https://github.com/user-attachments/assets/5754bd10-6ff0-4d8f-a27f-7344344bebee" />
 
 
 
