@@ -18,6 +18,7 @@ To design a digital Butterworth filter using bilinear method satisfying the cons
 	Save and run the program
 
 ## PROGRAM:
+```
 clear all
 clc
 
@@ -60,16 +61,16 @@ title('Magnitude Response of Butterworth 3rd order Lowpass Filter','fontweight',
 xlabel('Normalised frequency, \omega/\pi','fontweight','b');
 ylabel('Magnitude','fontweight','b');
 
-
+```
 
 
 ## OUTPUT
 
-
- 
-
+<img width="957" height="1013" alt="image" src="https://github.com/user-attachments/assets/b7f69824-5946-47af-a7a1-49736db53934" />
 
 
+## RESULT:
+Thus, digital Butterworth IIR filter with the given specifications was designed using MatLab.
 
 
 
